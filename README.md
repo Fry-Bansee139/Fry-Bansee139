@@ -42,7 +42,6 @@
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&borderRadius=5&fontSize=20&lineHeight=10&lineCount=2&theme=github_dark&gap=13&line1=node.js,node.js,339933;express,express,000000;javascript,javascript,F7DF1E;&line2=mongodb,mongodb,47A248;mysql,mysql,4479A1;git,git,F05032;" alt="Tech Stack" />
 </div>
 
 <div align="center">
@@ -67,10 +66,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fry-bansee139&bg_color=0d1117&color=63a4ff&line=83eaf1&point=63a4ff&area=true&hide_border=true&radius=8" width="100%">
 </div>
 
-<div align="center">
-  <h2>🌐 Weekly Development</h2>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fry-bansee139&theme=tokyonight&hide_border=true" width="100%">
-</div>
 
 
 <div align="center">
