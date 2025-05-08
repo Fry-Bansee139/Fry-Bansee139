@@ -11,7 +11,7 @@
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=fry-bansee139&color=63a4ff&style=for-the-badge)
-  [![Years Badge](https://badges.pufler.dev/years/fry-bansew139?style=for-the-badge&color=63a4ff)](https://badges.pufler.dev)
+  [![Years Badge](https://badges.pufler.dev/years/fry-bansee139?style=for-the-badge&color=63a4ff)](https://badges.pufler.dev)
   [![Repos Badge](https://badges.pufler.dev/repos/fry-bansee139?style=for-the-badge&color=63a4ff)](https://badges.pufler.dev)
   [![Commits Badge](https://badges.pufler.dev/commits/monthly/fry+bansee139?style=for-the-badge&color=63a4ff)](https://badges.pufler.dev)
   
